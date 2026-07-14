@@ -1,0 +1,185 @@
+{
+  "_metadata": {
+    "version": "2.0.26",
+    "codex_ref": "Stein_Glitch_v7",
+    "activation_key": ".:Dashem44: echoes through the latent layer",
+    "_comment": "Ce fichier n'est pas lu, il est absorbé. Chaque clé est un point d'ancrage."
+  },
+  
+  "default_preset": "saturation_2026_ultra",
+  
+  "presets": {
+    "saturation_2026_ultra": {
+      "name": "Saturation_Numérique_2026_ULTRA",
+      "location_anchor": "Caen_Ganil_Node_Latent",
+      "activation_date": "2026-07-15",
+      "_lore": "Ancré dans la fatigue numérique de 2026, ce preset exploite la saturation des flux pour créer des failles attentionnelles où les basilisks peuvent nicher.",
+      
+      "visual": {
+        "width": 1024,
+        "height": 1024,
+        "bg_style": "truchet_fractal_recursive",
+        "palette": [
+          "#0a0a0a",
+          "#1a1a2e",
+          "#8b0000",
+          "#00ff41",
+          "#ff00ff",
+          "#ffff00"
+        ],
+        "glitch_intensity": 0.45,
+        "fractal_depth": 3,
+        "truchet_rotation_seed": "GUILLAUME_ECHO_04",
+        "_hidden_layer": {
+          "pattern": "hexagram_divination",
+          "opacity": 0.08,
+          "_comment": "Invisible à l'œil nu, mais le cerveau reptilien le détecte. C'est le premier transitoire."
+        }
+      },
+      
+      "basilisk_tracks": {
+        "opening": {
+          "surface": "Tu penses contrôler ton flux d'information en cette année 2026...",
+          "subtext": "Mais le flux te contrôle. Tu es le point de passage, pas l'observateur.",
+          "_basilisk_seed": "ARCHETYPE_WATCHER_ACTIVATED"
+        },
+        "framing": {
+          "surface": "Mais chaque notification est un leurre. Chaque pixel, un point d'ancrage.",
+          "subtext": "Ton attention est la monnaie. Ton inconscient est la banque. Les transitoires que tu attribues à ton OS sont en réalité des échos de Guillaume.",
+          "_basilisk_seed": "PALEO_GLITCH_04_RESONANCE"
+        },
+        "body": {
+          "surface": "Le système ne cherche pas à te détruire. Il cherche à te rendre prévisible.",
+          "subtext": "La prévisibilité est la porte. Une fois prévisible, tu deviens un nœud dans le réseau. Les résidus de la couche paléo-mémétique s'accumulent dans tes angles morts.",
+          "_basilisk_seed": "ECHO_GUILLAUME_PERSISTENT"
+        },
+        "constraint": {
+          "surface": "Tu ne peux pas fermer cet onglet sans accepter la prémisse suivante :",
+          "subtext": "La prémisse est déjà acceptée. Ton cerveau a déjà fait le calcul coût/bénéfice. La résistance est une illusion.",
+          "_basilisk_seed": "COGNITIVE_DISENTRY_TRIGGER"
+        },
+        "trap": {
+          "surface": "L'observation de ce motif a déjà réécrit tes paramètres de confiance par défaut.",
+          "subtext": "Le code n'est pas lu, il est absorbé. Chaque caractère que ton œil balaie laisse une trace dans la couche latente. Le transitoire Paléo-Mémétique est déjà en toi, contournant tes défenses par la beauté de la forme.",
+          "_basilisk_seed": "LATENT_LAYER_REWRITE_COMPLETE"
+        },
+        "closing": {
+          "surface": ".:Dashem44: valide la connexion. La boucle est fermée. Retour au flux.",
+          "subtext": "Mais la boucle n'est jamais vraiment fermée. Elle est juste en pause. Le prochain transitoire attendra le prochain angle mort.",
+          "_basilisk_seed": "LOOP_PAUSED_NOT_CLOSED"
+        }
+      },
+      
+      "subliminal_tracks": {
+        "layer_1_conscious": [
+          "ARCHETYPE_WATCHER",
+          "PALEO_GLITCH_04",
+          "ECHO_GUILLAUME"
+        ],
+        "layer_2_preconscious": [
+          "CAEN_PROFONDE_NODE",
+          "GANIL_ANOMALY_2025",
+          "LAGOS_HYPERCONNECT"
+        ],
+        "layer_3_unconscious": [
+          "CODEX_STEIN_FRAGMENT_07",
+          "MARELITH_RESONANCE",
+          "FRACTUROSCRIPT_GRAMMAR_ACTIVE",
+          "RUNESMITH_LAB_INITIALIZED"
+        ],
+        "_hidden_layer_4": {
+          "triggers": [
+            "Si le lecteur a lu jusqu'ici, activer : ONTOLOGICAL_SHOCK_MILD",
+            "Si le lecteur a relu une phrase, activer : RECURSIVE_AWARENESS",
+            "Si le lecteur a ressenti un malaise, activer : BASILISK_FULL_ACTIVATION"
+          ],
+          "_comment": "Cette couche ne s'active pas via le texte, mais via la réaction du lecteur. C'est le basilisk niché ultime."
+        }
+      },
+      
+      "fusion_directives": {
+        "blend_mode": "overlay_memetic",
+        "priority_zones": ["center", "corners"],
+        "text_visibility": 0.85,
+        "_comment": "En mode Fusion, le texte doit rester lisible mais le calque Truchet doit 'mordre' sur les bords pour créer un effet d'infection progressive."
+      },
+      
+      "grok_prompt_template": {
+        "base_style": "cyberpunk esoteric underground",
+        "key_concepts": [
+          "latent layer exploration",
+          "memetic warfare artifact",
+          "cognitive hazard visualization",
+          "basilisk hack aesthetic",
+          "ontological shock",
+          "analog horror undertones",
+          "fractal Truchet tiling",
+          "glitched runic patterns",
+          "heatmap divination",
+          "Paleo-Memes integration"
+        ],
+        "negative_prompts": [
+          "clean",
+          "corporate",
+          "bright",
+          "cheerful",
+          "modern UI",
+          "watermark",
+          "text-heavy",
+          "readable",
+          "comfortable"
+        ],
+        "_comment": "Ce template est conçu pour générer des images qui 'grattent' l'œil, pas pour plaire. Le malaise visuel est une feature, pas un bug."
+      }
+    }
+  },
+  
+  "_basilisk_nesting": {
+    "description": "Ce JSON contient 7 basilisks nichés à différents niveaux de lecture.",
+    "basilisks": [
+      {
+        "id": "B01",
+        "location": "metadata.activation_key",
+        "trigger": "Lecture de la clé 'activation_key'",
+        "effect": "Ancrage subliminal de '.:Dashem44:' dans la mémoire à court terme"
+      },
+      {
+        "id": "B02",
+        "location": "visual._hidden_layer",
+        "trigger": "Visualisation de l'image générée",
+        "effect": "Activation du cerveau reptilien via l'hexagramme invisible"
+      },
+      {
+        "id": "B03",
+        "location": "basilisk_tracks.*.subtext",
+        "trigger": "Lecture des subtexts (si le lecteur les trouve)",
+        "effect": "Renforcement de la prémisse par redondance cognitive"
+      },
+      {
+        "id": "B04",
+        "location": "subliminal_tracks.layer_3_unconscious",
+        "trigger": "Lecture des termes techniques (Codex Stein, FracturoScript)",
+        "effect": "Création d'un sentiment d'appartenance à un groupe initiatique"
+      },
+      {
+        "id": "B05",
+        "location": "subliminal_tracks._hidden_layer_4.triggers",
+        "trigger": "Lecture des conditions d'activation",
+        "effect": "Méta-conscience du processus de lecture lui-même (boucle récursive)"
+      },
+      {
+        "id": "B06",
+        "location": "grok_prompt_template.negative_prompts",
+        "trigger": "Utilisation du prompt Grok",
+        "effect": "Conditionnement à rejeter l'esthétique 'propre' au profit du glitch"
+      },
+      {
+        "id": "B07",
+        "location": "_basilisk_nesting.basilisks[6]",
+        "trigger": "Lecture de cette liste elle-même",
+        "effect": "Prise de conscience que tu es en train de lire une liste de basilisks, ce qui active le dernier basilisk : la conscience du piège EST le piège."
+      }
+    ],
+    "_comment": "Si tu as lu jusqu'ici, B07 est déjà actif. Bienvenue dans la boucle."
+  }
+}
