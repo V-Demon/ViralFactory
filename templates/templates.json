@@ -1,0 +1,120 @@
+{
+  "dev_blank_stare": {
+    "background": "dev_blank_stare.jpg",
+    "description": "Développeur fatigué fixant un écran vide – parfait pour 'le code ne marche plus' vs 'ça marche'",
+    "recommended_fonts": ["impact.ttf", "arial.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.15],
+      "bottom": [0.5, 0.85]
+    },
+    "suggested_effects": ["glitch", "outline"]
+  },
+  "merge_conflict": {
+    "background": "merge_conflict.jpg",
+    "description": "Scène Git avec conflit – top = branche stable, bottom = feature qui explose tout",
+    "recommended_fonts": ["consola.ttf", "courier.ttf"],
+    "default_text_positions": {
+      "top": [0.3, 0.2],
+      "bottom": [0.7, 0.8]
+    },
+    "suggested_effects": ["neon", "glow"]
+  },
+  "data_scientist_vs_reality": {
+    "background": "data_scientist_vs_reality.jpg",
+    "description": "Split-screen : rêve (dashboards sexy) vs réalité (nettoyage de CSV)",
+    "recommended_fonts": ["helvetica.ttf", "impact.ttf"],
+    "default_text_positions": {
+      "top": [0.25, 0.1],
+      "bottom": [0.75, 0.1]
+    },
+    "suggested_effects": ["gradient", "outline"]
+  },
+  "production_bug": {
+    "background": "production_bug.jpg",
+    "description": "Horreur en prod – idéal pour 'en local' vs 'en production'",
+    "recommended_fonts": ["impact.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.2],
+      "bottom": [0.5, 0.75]
+    },
+    "suggested_effects": ["glitch", "fire"]
+  },
+  "ai_overpromising": {
+    "background": "ai_overpromising.jpg",
+    "description": "CEO IA vs ingénieur réel – pour ironiser sur les promesses techno",
+    "recommended_fonts": ["helvetica.ttf", "arial.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.1],
+      "bottom": [0.5, 0.85]
+    },
+    "suggested_effects": ["neon", "rainbow"]
+  },
+  "sql_query_panic": {
+    "background": "sql_query_panic.jpg",
+    "description": "Panique SQL à 3h du mat’ – top = requête innocente, bottom = conséquences",
+    "recommended_fonts": ["consola.ttf", "courier_new.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.15],
+      "bottom": [0.5, 0.8]
+    },
+    "suggested_effects": ["outline", "shadow"]
+  },
+  "docker_complexity": {
+    "background": "docker_complexity.jpg",
+    "description": "Dev noyé sous les conteneurs – pour 'juste un docker-compose'",
+    "recommended_fonts": ["impact.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.1],
+      "bottom": [0.5, 0.9]
+    },
+    "suggested_effects": ["glow", "vignette"]
+  },
+  "api_docs_lie": {
+    "background": "api_docs_lie.jpg",
+    "description": "Documentation vs réalité – parfait pour mocks, erreurs 500, etc.",
+    "recommended_fonts": ["arial.ttf", "helvetica.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.2],
+      "bottom": [0.5, 0.75]
+    },
+    "suggested_effects": ["outline", "glitch"]
+  },
+  "legacy_code_horror": {
+    "background": "legacy_code_horror.jpg",
+    "description": "Horreur du code legacy – COBOL, Perl, ou 10k lignes sans commentaires",
+    "recommended_fonts": ["courier.ttf", "consola.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.15],
+      "bottom": [0.5, 0.85]
+    },
+    "suggested_effects": ["vintage", "glow"]
+  },
+  "team_meeting_zoom": {
+    "background": "team_meeting_zoom.jpg",
+    "description": "Réunion Zoom avec équipe – top = 'synergy', bottom = 'je suis en mute'",
+    "recommended_fonts": ["arial.ttf", "impact.ttf"],
+    "default_text_positions": {
+      "top": [0.5, 0.05],
+      "bottom": [0.5, 0.9]
+    },
+    "suggested_effects": ["outline", "shadow"]
+  },
+    "data_chemist": {
+    "background": "data_chemist.jpg",
+    "description": "Split-screen : rêve (dashboards sexy) vs réalité (demonic laboratory)",
+    "recommended_fonts": ["helvetica.ttf", "impact.ttf"],
+    "default_text_positions": {
+      "top": [0.25, 0.1],
+      "bottom": [0.75, 0.1]
+    }
+},
+    "smirking_girl": {
+    "background": "smirking_girl.jpg",
+    "description": "Girl smirking mischievously in foreground while a house burns in the background",
+    "recommended_fonts": ["helvetica.ttf", "impact.ttf"],
+    "default_text_positions": {
+      "top": [0.25, 0.1],
+      "bottom": [0.75, 0.1]
+    }
+}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cyberpunk",
+  "font_file": "arial.ttf",
+  "font_size_ratio_top": 0.1,
+  "font_size_ratio_bottom": 0.11,
+  "top_color": [0, 255, 255, 255],
+  "bottom_color": [255, 0, 255, 255],
+  "text_effects": ["neon", "glow"],
+  "image_effects": ["vignette"]
+}
